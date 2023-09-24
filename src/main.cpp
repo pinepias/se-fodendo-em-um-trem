@@ -1,7 +1,10 @@
 #include <stdio.h>
 
+#include "game.h"
+
 int main(int argc, char *args[])
 {
-    printf("Hello, Se Fodendo Em Um Trem!\n");
+    Game game;
+
     return 0;
 }
